@@ -73,10 +73,10 @@ Playwright
 ## 📫 Connect with Me
 
 LinkedIn:
-(your LinkedIn)
+https://www.linkedin.com/in/bhoomikam5/
 
 Email:
-(your email)
+mbhoomi0502@gmail.com
 
 GitHub:
 https://github.com/bhoomikam05
