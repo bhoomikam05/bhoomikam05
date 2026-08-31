@@ -1,4 +1,4 @@
-# Hey, I'm Bhoomika M👋
+# Hey there 👋 Bhoomika here
 
 ### AI & ML Explorer | Full Stack Developer | Community Builder🚀
 
