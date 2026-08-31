@@ -1,6 +1,6 @@
 # Hey, I'm Bhoomika M👋
 
-### AI Intern @ Infosys Springboard · Semi-Finalist @ Flipkart GRiD 8.0 · Community Manager @ OSCode 🚀
+### AI & ML Explorer | Full Stack Developer | Community Builder🚀
 
 ---
 
